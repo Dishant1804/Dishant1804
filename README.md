@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Upskilling myself<br>🌱 I’m currently learning System Design<br>💬 Ask me about DSA
+🔭 I’m currently working on Upskilling myself<br>🌱 I’m currently learning Next.js<br>💬 Ask me about DSA
 
 
 ## 🌐 Socials:
