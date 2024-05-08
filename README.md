@@ -2,9 +2,6 @@
 🔭 I’m currently UpSkilling Myself<br>🌱 I’m currently learning Next.js<br>💬 Ask me about DSA
 
 
-![](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dishantmiyani) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MiyaniDishant) 
 
