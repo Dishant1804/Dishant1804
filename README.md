@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently UpSkilling Myself<br>🌱 I’m currently learning Next.js<br>💬 Ask me about DSA
+🔭 I’m currently UpSkilling Myself<br>💬 Ask me about DSA
 
 
 ## 🌐 Socials:
