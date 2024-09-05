@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently UpSkilling Myself<br>💬 Ask me about DSA
-
+Hey, I'm Dishant. I'm Machine Learning Developer , Data Analyst, and Full Stack Developer enthusiast based in India. I've been coding since 2022. I also love contributing to open source to give back to the community.
+Ask me about Machine Learning & WebDev
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dishantmiyani) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MiyaniDishant) 
