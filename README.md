@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Dishant. I'm Machine Learning Developer , Data Analyst, and Full Stack Developer enthusiast based in India. I've been coding since 2022. I also love contributing to open source to give back to the community.
+Hey, I'm Dishant. I'm Full Stack Developer, currently learning about depths of Machine Learning based in India. I've been coding since 2022. I also love contributing to open source to give back to the community.</br>
 Ask me about Machine Learning & WebDev
 
 ## 🌐 Socials:
