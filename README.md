@@ -17,6 +17,6 @@ Hey, I'm Dishant. I'm Full Stack Developer, currently learning about depths of M
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dishant1804&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dishant1804&icon=1&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Dishant1804&style=flat-square&color=green)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
