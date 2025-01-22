@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hey, I'm Dishant. I'm Full Stack Developer, currently learning about depths of Machine Learning. I also love contributing to open source to give back to the community.</br>
 
 ## 🌐 Socials:
