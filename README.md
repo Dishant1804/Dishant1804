@@ -3,9 +3,10 @@ Hey, I'm Dishant. I'm Full Stack Developer, currently learning about depths of M
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dishantmiyani) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MiyaniDishant) 
 
 ## 📘 Latest Blogs
-
+https://medium.com/@dishantmiyani1804/simplifying-rag-retrieval-augmented-generation-architecture-b42795eb8e38
 | Blog Title                                                                                                      | Date              |
 |-----------------------------------------------------------------------------------------------------------------|-------------------|
+| [**RAG(Retrieval Augmented Generation) and it’s Architecture**](https://medium.com/@dishantmiyani1804/simplifying-rag-retrieval-augmented-generation-architecture-b42795eb8e38)                             | March 14, 2025    |
 | [**Diving into Multi-stage Builds with Docker**](https://medium.com/@dishantmiyani1804/diving-into-multi-stage-builds-with-docker-9ef597d17d7d)                             | February 7, 2025    |
 | [**Handling the authentication while developing Vs code extension**](https://medium.com/@dishantmiyani1804/handling-authentication-while-developing-vs-code-extension-137ef959f10b)                             | October 30, 2024    |
 
