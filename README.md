@@ -1,5 +1,5 @@
 # About Me:
-Hey, I'm Dishant. I'm Full Stack Developer, currently learning about depths of Machine Learning. I also love contributing to open source to give back to the community.</br>
+Hey, I'm Dishant. I'm Full Stack Developer, crrently learning to build AI agents. I love contributing to open source to give back to the community.</br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dishantmiyani) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MiyaniDishant) 
 
 ## 📘 Latest Blogs
