@@ -1,4 +1,3 @@
-# About Me:
 Hey, I'm Dishant. I'm Full Stack Developer, crrently learning to build AI agents. I love contributing to open source to give back to the community.</br>
 ## 📘 Latest Blogs
 
